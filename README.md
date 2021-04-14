@@ -10,7 +10,7 @@ Taken from wikipedia, you can read more about the game [here](https://en.wikiped
 
 It's based on the Producer–consumer problem, you can read more about [here](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem).
 
-This program uses thread two thread that consumes the card that it's taken for the producer thread from the card stack.
+This program uses two thread that consumes the card that it's taken for the producer thread from the card stack.
 
 The producer thread notify both thread when a card has been taken from the stack then the threads reads the stack and the last one in read the card notify the producer to take a new card from the stack, when a consumer mark all its cards with beans in the table the game stop.
 
