@@ -21,7 +21,7 @@ The producer thread notify both thread when a card has been taken from the stack
 
 You can choose randomly the table which you are gonna play.
 
-
+![](https://i.imgur.com/X5ayf0h.png)
 
 **You can register a user to play**
 
